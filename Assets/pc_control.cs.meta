@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fd04e5e1c8e4bd489ca805cb6d1e4fd
+timeCreated: 1435130887
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zomble: {fileID: 187304, guid: 3d1ffc7f358efbc48bfcc7a66e3e7228, type: 2}
+  - healthbar: {fileID: 158982, guid: ef66d1aeaf9d4774c9bf3c52f1e05dd1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
